@@ -7475,9 +7475,9 @@ window#desktopwindow.background {
 /* GTK NAMED COLORS
    ----------------
    use responsibly! */
-@define-color accent_bg_color #6272a4;
+@define-color accent_bg_color #0eb0cb;
 @define-color accent_fg_color #ffffff;
-@define-color accent_color #6272a4;
+@define-color accent_color #0eb0cb;
 @define-color destructive_bg_color #ff5555;
 @define-color destructive_fg_color #ffffff;
 @define-color destructive_color #ff5555;
